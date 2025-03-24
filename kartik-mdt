@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":"\n-Revamped reports page \n-Added incidents page \n-Added sound compatability for dispatch notifications"}
+{"version":"1.4", "notes":" \n -Revamped citizens page \n- Added DNA and Fingerprint support \n-Fixed: Incident dialog box not closing after creating an incident"}
