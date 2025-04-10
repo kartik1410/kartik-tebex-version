@@ -1,1 +1,4 @@
-{"version":"1.4", "notes":" \n -Revamped citizens page \n- Added DNA and Fingerprint support \n-Fixed: Incident dialog box not closing after creating an incident"}
+{
+  "version": "1.5",
+  "notes": "- Added Compatibility\n\n- Inventory - ox, qb\n- Radio - mm, zerio\n- Sound - xsound, interact-sound\n- Target - ox_target, qb-target\n\n- Revamped Pages -\n\n- Vehicles\n- Warrants\n- Officer management\n- Medic management\n- Security management\n- Criminal codes\n- Bodycam\n\n- Added New Functionality\n\n- Officer/Medic tags for easy identifications\n- FTO reports\n- Evidence Locker link with reports"
+}
