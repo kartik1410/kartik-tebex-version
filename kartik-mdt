@@ -1,4 +1,4 @@
 {
-  "version": "1.5",
-  "notes": "- Added Compatibility\n\n- Inventory - ox, qb\n- Radio - mm, zerio\n- Sound - xsound, interact-sound\n- Target - ox_target, qb-target\n\n- Revamped Pages -\n\n- Vehicles\n- Warrants\n- Officer management\n- Medic management\n- Security management\n- Criminal codes\n- Bodycam\n\n- Added New Functionality\n\n- Officer/Medic tags for easy identifications\n- FTO reports\n- Evidence Locker link with reports"
+  "version": "1.6",
+  "notes": "- Added support for\n\n- Prisons - rcore_prison, stevo_prison, xt-prison\n- Radio - cs_walkietalkie\n- Inventory - qs-inventory\n\n- Added:\n\n- Alerts blip will be shown on pausemenu/minimap map now\n\n- Fixes:\n\n- Sync Toggle Duty between frameworks\n- Fixed vehicle dispatch alerts not showing some details (like plate and vehicle name in some alerts)"
 }
