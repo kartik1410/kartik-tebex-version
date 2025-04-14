@@ -1,4 +1,4 @@
 {
-  "version": "1.6",
-  "notes": "- Added support for\n\n- Prisons - rcore_prison, stevo_prison, xt-prison\n- Radio - cs_walkietalkie\n- Inventory - qs-inventory\n\n- Added:\n\n- Alerts blip will be shown on pausemenu/minimap map now\n\n- Fixes:\n\n- Sync Toggle Duty between frameworks\n- Fixed vehicle dispatch alerts not showing some details (like plate and vehicle name in some alerts)"
+  "version": "1.7",
+  "notes": "- Added support for\n\n- Dispatch - cd_dispatch, tk_dispatch, ps-dispatch, dusa_dispatch, qs-dispatch, rcore_dispatch\n\n- Fixes:\n\n- Fixed Dispatch calls getting stuck on screen\n\nThanks for Supporting 🚓"
 }
