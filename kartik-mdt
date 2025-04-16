@@ -1,4 +1,4 @@
 {
-  "version": "1.7.1",
-  "notes": "- Added support for\n\n- L2S Dispatch\n- Housing scripts:\n  - bcs_housing.lua\n  - bnl-housing.lua\n  - nolag_properties.lua\n  - ps-housing.lua\n  - qb-houses.lua\n  - qbx_properties.lua\n  - qs-housing.lua\n  - tk_housing.lua\n\n- Fixes:\n\n- Minor fixes and improvements"
+  "version": "1.7.2",
+  "notes": "- Added support for\n\n- Phones:\n  - GKS Phone\n  - High Phone\n  - Lb-Phone\n  - Ok Ok Phone\n  - Yseries\n  - Snappy Phone\n  - All other qb/qbx_core-compatible phones with similar data structure\n\n- Housing scripts:\n  - sn-properties\n  - origen_housing\n\n- Fixes:\n\n- Fixed warrant search query issue\n- EMS reports page no longer breaks on saving\n\n- Unescrowed files:\n  - server/open/commands.lua (add more calls like 311, 911)\n  - client/open/dispatch_calls.lua (customize dispatch event handlers)\n\n- Documentation updated: https://kartik-scripts.gitbook.io"
 }
