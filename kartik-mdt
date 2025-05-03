@@ -1,4 +1,13 @@
 {
-  "version": "1.7.6",
-  "notes": "- Fixes:\n\n- Fixed license expiry issue where the expiry date was being saved incorrectly.\n- Fixed roster issue.\n- Fixed weapon registration date showing as timestamp instead of a proper date.\n- Fixed issue where officers with edit rank were able to fire/change roles without manage permissions.\n- Bodycam will now close when removing the item (requires changes in your ox_inventory, refer to docs for updating items.lua).\n\n- Improvements & Enhancements:\n\n- Bodycam with online status will now appear first for better visibility.\n\n- New Features:\n\n- Added support for different evidence systems — integration with snipe-evidence is done for now.\n- Added fake profiles mechanism in MDT (exports for integration will be updated in the docs soon).\n- Added duty blips (Credit: cad-jobblips by Cadburry).\n\n- Documentation will be updated soon: https://kartik-scripts.tebex.io\n\nPlease open a ticket in case of any issue."
+  "version": "1.7.7",
+  "notes": "Localization support added on high demand – locales files for different languages will be provided soon.\\n\\n\
+Optimised MDT from 18.6MB to 2.6MB now – should be much smoother than before.\\n\\n\
+Introduced a new custom editor area for reports (please report any bugs you encounter).\\n\\n\
+- Fixed: Calls were appearing on top of MDT, preventing save/cancel actions (they now appear behind the MDT).\\n\
+- Fixed: Rich text editor dropdown menu display issue.\\n\
+- Fixed: MDT freezing when closed on the reports page and reopened.\\n\
+- Fixed: Criminal charges added to the first person were incorrectly being applied to the last.\\n\\n\
+Minor fixes and general optimizations.\\n\\n\
+Thank you for your support. We're aware dispatch updates are pending — please share your ideas with us on Discord.\\n\\n\
+https://kartik-scripts.gitbook.io"
 }
