@@ -1,13 +1,4 @@
 {
   "version": "1.7.7",
-  "notes": "Localization support added on high demand – locales files for different languages will be provided soon.\\n\\n\
-Optimised MDT from 18.6MB to 2.6MB now – should be much smoother than before.\\n\\n\
-Introduced a new custom editor area for reports (please report any bugs you encounter).\\n\\n\
-- Fixed: Calls were appearing on top of MDT, preventing save/cancel actions (they now appear behind the MDT).\\n\
-- Fixed: Rich text editor dropdown menu display issue.\\n\
-- Fixed: MDT freezing when closed on the reports page and reopened.\\n\
-- Fixed: Criminal charges added to the first person were incorrectly being applied to the last.\\n\\n\
-Minor fixes and general optimizations.\\n\\n\
-Thank you for your support. We're aware dispatch updates are pending — please share your ideas with us on Discord.\\n\\n\
-https://kartik-scripts.gitbook.io"
+  "notes": "Localization support added (locale files coming soon). Optimized MDT size from 18.6MB to 2.6MB for smoother performance. Introduced a new custom editor area for reports (report bugs if any). Fixed: Calls now appear behind MDT; rich text editor dropdown issue; MDT freezing when reopened on reports page; criminal charges wrongly applied to last person instead of first. Minor fixes and general optimizations. Dispatch updates pending – share your ideas on Discord. https://kartik-scripts.gitbook.io"
 }
