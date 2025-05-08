@@ -1,4 +1,4 @@
 {
-  "version": "1.7.7",
-  "notes": "Localization support added (locale files coming soon). Optimized MDT size from 18.6MB to 2.6MB for smoother performance. Introduced a new custom editor area for reports (report bugs if any). Fixed: Calls now appear behind MDT; rich text editor dropdown issue; MDT freezing when reopened on reports page; criminal charges wrongly applied to last person instead of first. Minor fixes and general optimizations. Dispatch updates pending – share your ideas on Discord. https://kartik-scripts.gitbook.io"
+  "version": "1.7.8",
+  "notes": "🆕 New Features:\n- New tablet UI with support for multiple apps.\n- Added support for qb-prison.\n\n🔄 Improvements:\n- Fixed localization issues for various text.\n- Resolved errors with certain queries.\n- Fixed qs-inventory tracker issue.\n- Fixed incident and report search not working.\n- Addressed common errors like .map and .length.\n\n🐞 Bug Fixes:\n- Resolved MDT freezing when reopened on the reports page.\n- Fixed criminal charges being wrongly applied to the last person instead of the first.\n- General performance optimizations and minor fixes.\n\n📢 Dispatch updates pending – share your ideas on Discord.\n📚 Documentation: https://kartik-scripts.gitbook.io"
 }
