@@ -1,4 +1,4 @@
 {
-  "version": "1.7.8",
-  "notes": "New Features:\n- New tablet UI with support for multiple apps.\n- Added support for qb-prison.\n- Added templates in the rich text editor for faster content creation.\n\nImprovements:\n- Fixed localization issues for various text.\n- Resolved errors with certain queries.\n- Fixed qs-inventory tracker issue.\n- Fixed incident and report search not working.\n- Addressed common errors like .map and .length.\n\nBug Fixes:\n- Resolved MDT freezing when reopened on the reports page.\n- Fixed criminal charges being wrongly applied to the last person instead of the first.\n- General performance optimizations and minor fixes.\n\nDispatch updates pending – share your ideas on Discord.\nDocumentation: https://kartik-scripts.gitbook.io"
+"version": "1.7.9",
+"notes": "New Features:\n- Added a config for theme (Tablet or MDT).\n- Added a vehicle dispatch with an automatic plate reader connected with MDT bolos (no need for external systems now).\n- Added config for keybinds."
 }
