@@ -1,4 +1,4 @@
 {
 "version": "1.7.9",
-"notes": "New Features:\n- Added a config for theme (Tablet or MDT).\n- Added a vehicle dispatch with an automatic plate reader connected with MDT bolos (no need for external systems now).\n- Added config for keybinds."
+"notes": "New Features:\n- Added a config for theme (Tablet or MDT).\n- Added a vehicle dispatch with an automatic plate reader connected with MDT bolos (no need for external systems now).\n- Added config for keybinds.\n- Added images for MDT, Dispatch, and Bodycam to enhance user experience.\n\nFixes:\n- Fixed export issue: Now correctly exports charges instead of their descriptions.\n- Fixed tracker blinking issue for smoother performance.\n- Fixed: Users with higher management ranks can now delete involved people in reports as expected.\n- Fixed MDT freezing issue when switching tabs after clicking the edit button."
 }
