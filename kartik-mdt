@@ -1,4 +1,4 @@
 {
-  "version": "1.8.0",
-  "notes": "New Features:\n- Added support for scully_radio.\n- Live Collaboration Editing in Incidents and Reports page (BETA).\n- New Dispatch UI.\n\nFixes:\n- Prevented the same car from being added to a single report/incident.\n- Fixed security camera rotation (config updated).\n- Fixed MDT not closing on getting killed."
+  "version": "1.8.1",
+  "notes": "New Features:\n- Added support for ESX.\n- Movable UI for Bodycam, Dispatch calls, and Vehicle Dispatch.\n- Added saving state for Vehicle Dispatch components (hide/show).\n- Added support for Brutal Housing.\n\nPrevious Updates:\n- Added support for scully_radio.\n- Live Collaboration Editing in Incidents and Reports page (BETA).\n- New Dispatch UI.\n\nFixes:\n- Prevented the same car from being added to a single report/incident.\n- Fixed security camera rotation (config updated).\n- Fixed MDT not closing on getting killed."
 }
