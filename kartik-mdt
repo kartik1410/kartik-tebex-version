@@ -1,4 +1,4 @@
 {
-  "version": "1.8.2",
-  "notes": "New Features:\n- Added SOP Page (similar to Roster).\n- Added Citations Support for KFines.\n- Citation Mechanism Implemented.\n- Added Billing Support for multiple systems:\n  • cad-payments\n  • codem-billing\n  • fd_banking\n  • okokBilling\n  • ps-banking\n  • qs-billing\n  • tgg-billing\n\nFixes:\n- Fixed ESX `setJob` issue.\n- Fixed insertion query issue on script start for new customers (collation mismatch).\n- Fixed okokPhone bridge issue when fetching phone numbers.\n- Fixed various ESX framework compatibility issues.\n\nImprovements:\n- Optimized Security Cameras Page.\n- Optimized Bodycam UI Page.\n- Added config option for minimum speed alert.\n- Added support for remaining locales."
+  "version": "1.8.3",
+  "notes": "New Features:\n- Added incident linking to citizen profiles (attached reports).\n- Added panic button system with exports and event triggers.\n- Introduced vehicle strike point tracking system.\n- Responding to a call now auto-switches the player to that call.\n\nFixes:\n- Fixed bodycam job label not updating after job change.\n- Fixed infinite loading issue when reopening MDT on already-loaded pages.\n- Removed ability for users to promote themselves (exploit fix)."
 }
