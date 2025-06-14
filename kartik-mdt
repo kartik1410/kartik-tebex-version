@@ -1,4 +1,4 @@
 {
-  "version": "1.8.3",
-  "notes": "New Features:\n- Added incident linking to citizen profiles (attached reports).\n- Added panic button system with exports and event triggers.\n- Introduced vehicle strike point tracking system.\n- Responding to a call now auto-switches the player to that call.\n\nFixes:\n- Fixed bodycam job label not updating after job change.\n- Fixed infinite loading issue when reopening MDT on already-loaded pages.\n- Removed ability for users to promote themselves (exploit fix)."
+  "version": "1.8.4",
+  "notes": "New Features:\n- Added On-Foot Dispatch for improved field usability.\n- Integrated speed camera support into the MDT.\n\nImprovements:\n- Waypoint keybind (O) now works only when On-Foot or Vehicle Dispatch is active.\n- Citizens' names can now be updated via MDT, limited to users with 'management_rank' or higher and jobs with edit access to the Citizens page.\n\nFixes:\n- Fixed issue where the link button appeared incorrectly when reopening MDT on an active report.\n- Resolved a crash when accessing the Citations tab directly from a citizen profile."
 }
