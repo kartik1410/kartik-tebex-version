@@ -1,4 +1,4 @@
 {
-  "version": "1.8.62",
-  "notes": "Changelog:\n- Fixed issue where MM Radio was not connecting to channels\n- Resolved display issues with qs-housing and nolag_properties\n- Fixed EMS reports and incidents not being saved correctly\n- Added configurable Strike Points system via config.lua for server owners and developers\n- Addressed backward compatibility issues with L2's Dispatch\n- Implemented general optimizations and performance improvements\n\nNote:\nThis update focuses on improving reliability, compatibility, and administrative configurability across various MDT modules."
+  "version": "1.8.63",
+  "notes": "Changelog:\n- Fixed issue where reports and incidents were not saving correctly\n- Resolved bug where court casings were not updating their statuses\n- Fixed inability to update category for a criminal code after creation\n- Added compatibility with ox_core framework\n- Minor fixes and internal improvements\n\nNote:\nThis update focuses on improving data reliability, legal workflows, and framework support within the MDT system."
 }
