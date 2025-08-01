@@ -1,4 +1,4 @@
 {
-  "version": "1.8.63",
-  "notes": "Changelog:\n- Fixed issue where reports and incidents were not saving correctly\n- Resolved bug where court casings were not updating their statuses\n- Fixed inability to update category for a criminal code after creation\n- Added compatibility with ox_core framework\n- Minor fixes and internal improvements\n\nNote:\nThis update focuses on improving data reliability, legal workflows, and framework support within the MDT system."
+  "version": "1.8.64",
+  "notes": "Changelog:\n- Fixed an issue where license status updates on Qbox were broken in the previous update\n- Fixed a bug where the dangerous status was not displaying on warrants\n- Resolved an issue where clicking the \"Handle Code 4\" button caused all active calls to appear in the MDT at once\n- Fixed an issue where pressing the \"O\" button on a response would immediately jump to the next unresponded call, causing confusion due to incorrect or missing location markers\n- Management rank and above can now access locked reports as intended"
 }
