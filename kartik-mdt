@@ -1,4 +1,4 @@
 {
-  "version": "1.8.65",
-  "notes": "Changelog:\n- Added support for per-page permission configuration based on rank or tags\n- Permissions can now be fine-tuned for each page using tag-based or rank-based access\n- Make sure to update your shared/permission file accordingly to reflect the new structure"
+  "version": "1.8.66",
+  "notes": "Changelog:\n- Added configuration option for automatic call creation\n- Improved drag-and-drop functionality; now works on the entire radio channel card\n- Officers can now be attached by dragging one officer card onto another\n- Introduced new UI layout: available units (left), radio channels (center), and recent incidents (right)\n- Fixed issue where dispatch calls appeared during pause menu, blocking blips\n- Added configuration support for duty hour tracking"
 }
