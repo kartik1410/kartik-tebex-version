@@ -1,4 +1,4 @@
 {
-  "version": "1.8.66",
-  "notes": "Changelog:\n- Added configuration option for automatic call creation\n- Improved drag-and-drop functionality; now works on the entire radio channel card\n- Officers can now be attached by dragging one officer card onto another\n- Introduced new UI layout: available units (left), radio channels (center), and recent incidents (right)\n- Fixed issue where dispatch calls appeared during pause menu, blocking blips\n- Added configuration support for duty hour tracking"
+  "version": "1.8.67",
+  "notes": "Changelog:\n- Added Civilian MDT functionality\n- Added support for VMS Housing\n\nFiles Changed:\n- bridge/**\n- client/civilian/mdt.lua (new)\n- client/main.lua\n- shared/config_civilian_mdt.lua\n- web/**\n- fxmanifest.lua"
 }
