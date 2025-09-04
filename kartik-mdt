@@ -1,4 +1,4 @@
 {
-  "version": "1.8.67",
-  "notes": "Changelog:\n- Added Civilian MDT functionality\n- Added support for VMS Housing\n\nFiles Changed:\n- bridge/**\n- client/civilian/mdt.lua (new)\n- client/main.lua\n- shared/config_civilian_mdt.lua\n- web/**\n- fxmanifest.lua"
+  "version": "1.8.88",
+  "notes": "Changelog:\n- Added support for Kartik-Banking (apologies for the delay)\n- Added support for frkn-prison\n- Added support for VMS Properties\n- Added option to directly open vehicle details using export\n- Added option to disable client-side alerts (useful for arenas/paintball)\n- Removed most debug prints that previously cluttered the console\n- Fixed issue where saving a report and closing MDT on the same page caused changes not to appear until reopening from the reports page"
 }
