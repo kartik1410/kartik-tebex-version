@@ -1,4 +1,4 @@
 {
-  "version": "1.8.69",
-  "notes": "Changelog:\n- Fixed duty blips which were broken in the last update\n- Added cs_license support\n- Added Keybinds support for opening Dispatch, MDT, and using Bodycam (changes in Config.lua)\n- Added Duty Logs Discord integration (changes in server_config.lua)\n- Fixed EMS body damage area text not appearing while typing\n\nFiles Changed:\n- bridge/**\n- client/main.lua\n- shared/config.lua\n- shared/server_config.lua\n- server/**\n- web/**"
+  "version": "1.8.70",
+  "notes": "Changelog:\n- Warrants: Added status filter to toggle between Active, Expired, and Served.\n- Tab Persistence: Fixed issue where MDT always reopened on the first tab instead of the last viewed tab.\n- Bulletin Board: Announcements are now ordered newest to oldest (latest at the top) and improved readability/reduced scrolling.\n\nFiles Changed:\n- server/**\n- web/**"
 }
