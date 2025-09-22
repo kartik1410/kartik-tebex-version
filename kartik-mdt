@@ -1,4 +1,1 @@
-{
-  "version": "1.8.70",
-  "notes": "Changelog:\n- Warrants: Added status filter to toggle between Active, Expired, and Served.\n- Tab Persistence: Fixed issue where MDT always reopened on the first tab instead of the last viewed tab.\n- Bulletin Board: Announcements are now ordered newest to oldest (latest at the top) and improved readability/reduced scrolling.\n\nFiles Changed:\n- server/**\n- web/**"
-}
+{"version":"1.8.71", "notes":"Join discord to know more https://discord.gg/qxGPARNwNP"}
